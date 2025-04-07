@@ -1,1 +1,2 @@
-# design-portfolio
+# Sophia Pagazani
+Design Portfolio
